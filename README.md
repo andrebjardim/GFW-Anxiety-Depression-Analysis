@@ -2,18 +2,18 @@
 
 ![Dashboard Screenshot](https://github.com/andrebjardim/GFW-Anxiety-Depression-Analysis/blob/main/Power%20BI%20Report.png)
 
-## 📌 Project Overview
+## Project Overview
 This project investigates the key **drivers of anxiety, depression, and suicidal thoughts among widows**, focusing on socioeconomic factors such as **income sufficiency, food security, number of dependents, and ability to pay for basic needs**. 
 
 Using **survey data from the Global Fund for Widows (GFW)** and applying the **World Health Organization (WHO) methodology**, this analysis uncovers **correlations between mental health outcomes and baseline socioeconomic conditions**. The findings inform **data-driven interventions** to promote mental health and financial stability among widows.
 
-## 🔒 Data Confidentiality
+## Data Confidentiality
 Please note that the dataset used in this project is confidential and cannot be shared publicly. All data analysis and insights were conducted with full respect for the privacy and confidentiality of the individuals involved in the survey. The data was anonymized for analysis, ensuring that **no personal information** was used in the study. For the sake of transparency, sample anonymized data and visualizations are included in the project for demonstration purposes.
 
-## 🤝 Volunteer Project
+## Volunteer Project
 This project was conducted as a **volunteer initiative** in collaboration with the **Global Fund for Widows (GFW)**. As a volunteer, I contributed to analyzing survey data and providing actionable insights aimed at improving the mental health and financial stability of widows. The project focused on identifying key socioeconomic factors affecting mental health and recommending data-driven interventions to create a positive impact on widows' lives globally.
 
-## 🎯 Key Insights
+## Key Insights
 - **Anxiety and Depression Correlation**
   - Moderate **positive correlation (0.61)** between GAD-7 (anxiety) and PHQ-9 (depression) scores. This indicates a **moderate relationship**, meaning as anxiety increases, depression tends to increase as well.
 - **Impact of Dependents’ Education**
@@ -26,7 +26,7 @@ This project was conducted as a **volunteer initiative** in collaboration with t
 - **Income and Anxiety Levels**
   - Widows with **severe anxiety** have significantly **lower household income per member (1,230.84)** compared to the average (1,678.56), reinforcing the impact of financial distress on mental health.
 
-## 💡 Recommendations
+## Recommendations
 1. **Comprehensive Financial Empowerment**
    - Implement **microfinance opportunities** for small business creation.
    - Provide **direct cash transfers** to support widows in severe financial distress.
@@ -47,14 +47,11 @@ This project was conducted as a **volunteer initiative** in collaboration with t
 5. **Monitoring & Evaluating Impact**
    - Implement a **robust data-driven framework** to track program success and optimize interventions.
 
-## 🛠️ Tools Used
+## Tools Used
 - **Excel** (Data Cleaning, Transformation, and Analysis)
 - **Power BI** (Dashboard & Report Creation)
 
-## 🚀 Why This Matters for Recruiters
-This project demonstrates my **ability to turn complex datasets into actionable insights**. Using Power BI and data analytics, I identified key **mental health drivers**, built an impactful dashboard, and provided **strategic recommendations** based on data. These skills are highly transferable to business intelligence, operations analysis, and decision-making roles.
-
-## 📂 Project Documentation
+## Project Documentation
 For more in-depth analysis, check out the project documentation below:
 
 [Project Description](https://github.com/andrebjardim/GFW-Anxiety-Depression-Analysis/blob/main/Docs/Project%20Description.pdf): Overview of the project's goals and scope.
